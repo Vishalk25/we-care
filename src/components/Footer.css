@@ -1,0 +1,20 @@
+#footer {
+    display: flex;
+    flex-direction:row;
+    justify-content: space-around;
+    background-color: rgb(178, 115, 236);
+}
+
+.footer-text{
+    font-size:x-large;
+    color: rgb(102, 19, 179);
+    font-weight: 400;
+    padding: 40px 0;
+    
+}
+
+#copyright{
+    background-color: rgb(178, 115, 236);
+    padding: 15px 0;
+    color: rgb(102, 19, 179);
+}
