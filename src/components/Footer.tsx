@@ -10,7 +10,7 @@ export const Footer = () => {
         <div className="footer-text">Fundraise Support</div>
       </div>
       <div id="copyright">
-        Copyright ©2024 All rights reserved | This template is made by Vishal
+        Copyright ©2024 All rights reserved |This template is made by Vishal
       </div>
     </>
   );
