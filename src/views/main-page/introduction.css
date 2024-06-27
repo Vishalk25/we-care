@@ -1,0 +1,16 @@
+#intro-main{
+    margin: 3% 2%;
+    display: flex;
+    flex-direction: row;
+}
+
+#intro-desc{
+    width: 50%;
+    padding: 0 5%;
+}
+
+#intro-img{
+    border: 20px solid #f1e7ea;
+}
+
+
